@@ -3,29 +3,21 @@
 using namespace std;
 
 /*
-
-Task:
-
-Create a simple calculator program
-
-where the user can choose an option
-
-between addition, subtraction,
-
-multiplication, and division, and
-
-the user can input two numbers
-
-namely x and y!
-
-Example:
-
-Input: [Addition], 5, 10
-
-Output: 15
-
-
-*/
+ * Task:
+ *
+ * Create a simple calculator program
+ * where the user can choose an option
+ * between addition, subtraction,
+ * multiplication, and division, and
+ * the user can input two numbers
+ * namely x and y!
+ * 
+ * Example:
+ * 
+ * Input: [Addition], 5, 10
+ * Output: 15
+ *
+ */
 
 int main(int argc, char *argv[]) { int ops;
 
